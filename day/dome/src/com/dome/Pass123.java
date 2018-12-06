@@ -18,5 +18,6 @@ public class Pass123 {
     public  void text(){
         int i=1;
         i+=10;
+        System.out.println(i);
     }
 }
